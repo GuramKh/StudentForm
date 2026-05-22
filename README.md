@@ -6,11 +6,7 @@ A single-screen Android application built with Jetpack Compose that collects stu
 
 ## Example
 
-![Example](
-
-https://github.com/user-attachments/assets/46e43913-a451-44cf-8184-ed91fe41bd6f
-
-)
+![Example](Example.gif)
 
 ### The recording shows:
 1. **ავტორიზაცია** — სახელი და გვარი იწერება "Your Name" და "Your Surname" ველში ვიდეოს დასაწყისში
